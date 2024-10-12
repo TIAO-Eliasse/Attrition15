@@ -7,7 +7,7 @@ st.title("Prédiction de la demission d'un membre du personnel de l'entreprise")
 st.subheader("Application réalisé par TIAO ELIASSE")
 st.markdown("**Cette application utilise un modèle de machine learning pour prédire la démission d'un employé de l'entreprise**")
 # Chargement du modèle
-model=jb.load("./Attrition/final_model1.joblib")
+model=jb.load("Attrition/final_model1.joblib")
 
 
 
