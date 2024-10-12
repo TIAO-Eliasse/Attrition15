@@ -1,6 +1,7 @@
 [server]
 pythonVersion = "3.11"
 joblib==1.2.0
+pip==24.2
 setuptools
 wheel
 matplotlib==3.8.0
